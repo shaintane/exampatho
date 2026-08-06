@@ -1,0 +1,13 @@
+{
+  "schema_version": "v2.0",
+  "project_id": "MT-2024-1-PATHO",
+  "exam_id": "MT-2024-1",
+  "year_roc": 113,
+  "year_ad": 2024,
+  "session": 1,
+  "subject_code": "PATHO",
+  "subject_name": "臨床生理與病理學",
+  "question_count": 79,
+  "media_count": 3,
+  "published_at": "2026-08-04T22:43:07"
+}
